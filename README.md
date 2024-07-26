@@ -1,8 +1,8 @@
 # Zidio Internship_Resume_Builder
 
-Resume Builder Live Demo [link here](https://sanket-santoki.github.io/CodeClauseInternship_Resume_Builder/)
+Resume Builder Live Demo [link here](https://resume-builder-five-bay.vercel.app/)
 
-Github Profile [link](https://github.com/verma094/Resume_Builder)
+Github Profile [link here](https://github.com/verma094/Resume_Builder)
 
 ![app](assets/Resume1.png) 
 ![app](assets/Resume2.png)
