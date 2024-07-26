@@ -33,7 +33,7 @@ Bootstrap
 JavaScript
 
 # Credits:
-Developed by Sanket Santoki
-Internship at CodeClause
+Developed by Shreya Verma
+Internship at Zidio
 
 Thank you for checking out our Resume Builder Project. Stay informed, stay connected!
